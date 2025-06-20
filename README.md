@@ -6,6 +6,8 @@ A modern, interactive web application for solving 2x2 and 3x3 Rubik's Cubes with
 ![Vite](https://img.shields.io/badge/Vite-6.0+-purple?style=for-the-badge&logo=vite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 
+**🌐 Live Demo**: [https://summerxiahuang.github.io/rubiks-cube-app/](https://summerxiahuang.github.io/rubiks-cube-app/)
+
 ## ✨ Features
 
 ### 🎲 **Dual Cube Support**
