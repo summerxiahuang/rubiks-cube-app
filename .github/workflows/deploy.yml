@@ -32,8 +32,12 @@ jobs:
         
       - name: Build
         run: npm run build
-        env:
-          VITE_BASE_URL: '/rubiks-cube-app/'
+        
+      - name: List build output
+        run: ls -la dist/
+        
+      - name: Show built HTML
+        run: cat dist/index.html
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
